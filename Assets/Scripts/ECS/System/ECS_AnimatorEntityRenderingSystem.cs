@@ -79,11 +79,6 @@ namespace Aoi.ECS
                     float normalizeTime = animData.CalcNormalizeTime(frameCount, animData.StartTime);
                     animData.CurFrame = (int)(normalizeTime * frameCount);
 
-                    location.Value = new float4x4(
-                    1.0f, 0.0f, 0.0f, translation.Value.x,
-                    0.0f, 1.0f, 0.0f, translation.Value.y,
-                    0.0f, 0.0f, 1.0f, translation.Value.z,
-                    0.0f, 0.0f, 0.0f, 1.0f);
                 }).ScheduleParallel();
 
             
@@ -119,10 +114,6 @@ namespace Aoi.ECS
                     float3 position = animatorTranslateData.Value;
 
                     float4x4 trs = float4x4.TRS(animatorTranslateData.Value, animatorRotationData.Value, new float3(1,1,1));
-                    trs.c0.w = perFrameData.x;
-                    trs.c1.w = perFrameData.y;
-                    trs.c2.w = perFrameData.z;
-                    trs.c3.w = perFrameData.w;
 
                     frameDataMaterialProerty.Value = perFrameData;
 
