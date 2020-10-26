@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1309835393398080038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5981361541441058304}
+  - component: {fileID: 7480683700914630623}
+  m_Layer: 0
+  m_Name: Troop_cavalry_lv01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5981361541441058304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1309835393398080038}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7480683700914630623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1309835393398080038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 004ec76f51d916349b8b625aeeadd000, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AttachDatas:
+  - LODMesh:
+    - {fileID: 4300000, guid: 4763c7ba7b072f04691e5290ce912c86, type: 2}
+    - {fileID: 4300000, guid: 5e912f5a20edfde409476c4b3ebbe2f0, type: 2}
+    DrawMaterial: {fileID: 2100000, guid: adace76d7cd46a445890112252b9453e, type: 2}
+    AnimTexture: {fileID: 2800000, guid: c232aebc787fa7243a67f4a6d27dc726, type: 2}
+    SMRCount: 15
+  - LODMesh:
+    - {fileID: 4300000, guid: bfa4f5ed271aacb41ab3df3e09161848, type: 2}
+    - {fileID: 4300000, guid: 6ec0c68539460b54aa0b9b3ebb457e3e, type: 2}
+    DrawMaterial: {fileID: 2100000, guid: f64e0f9b95733274482d9d80838e95db, type: 2}
+    AnimTexture: {fileID: 2800000, guid: 0c6ecace39964bb448c2aec31cf428b6, type: 2}
+    SMRCount: 22

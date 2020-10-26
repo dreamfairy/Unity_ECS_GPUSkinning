@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -748599645, guid: 137f92a34333cfe4d997bdedc4612c54, type: 3}
+  m_Name: Troop_cavalry_lv01_animData
+  m_EditorClassIdentifier: 
+  AttachData:
+  - AttachMesh: {fileID: 4300000, guid: 4763c7ba7b072f04691e5290ce912c86, type: 2}
+    AttachMats:
+    - {fileID: 2100000, guid: a604630a8e0a2d447a3fe23380d5408d, type: 2}
+    ExportBoneAnimArray: []
+    FixedExportBoneDataArray:
+    - BoneBindPosMatrix:
+        real: {x: 0, y: 0, z: 0.7043065, w: 0.709896}
+        dual: {x: 1.0201629, y: -0.81367904, z: 0.019280823}
+      BoneIndex: 0
+      BoneIndexInList: 0
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1694199449
+      BoneTransName: Bone005
+    - BoneBindPosMatrix:
+        real: {x: 0.4673077, y: -0.53068215, z: 0.46730757, w: 0.5306822}
+        dual: {x: 0.94292206, y: -0.12588556, z: -0.00000014864163}
+      BoneIndex: 12
+      BoneIndexInList: 1
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1034683906
+      BoneTransName: Bone015
+    - BoneBindPosMatrix:
+        real: {x: -0.47094455, y: -0.5316643, z: -0.54837435, w: 0.4413954}
+        dual: {x: -1.037396, y: 0.021079594, z: -0.27109382}
+      BoneIndex: 3
+      BoneIndexInList: 2
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1583048562
+      BoneTransName: Bone007
+    - BoneBindPosMatrix:
+        real: {x: -0.544613, y: -0.50485015, z: -0.5458805, w: 0.38799164}
+        dual: {x: -0.6321129, y: 0.09943499, z: -0.24477006}
+      BoneIndex: 2
+      BoneIndexInList: 3
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 72642505
+      BoneTransName: Bone008
+    - BoneBindPosMatrix:
+        real: {x: -0.5483745, y: -0.44139552, z: -0.4709446, w: 0.531664}
+        dual: {x: -1.0366184, y: 0.0210023, z: 0.27569205}
+      BoneIndex: 9
+      BoneIndexInList: 4
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -817394303
+      BoneTransName: Bone007(mirrored)
+    - BoneBindPosMatrix:
+        real: {x: -0.5458808, y: -0.38799176, z: -0.54461294, w: 0.5048498}
+        dual: {x: -0.6316199, y: 0.098846495, z: 0.2493705}
+      BoneIndex: 11
+      BoneIndexInList: 5
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 694828105
+      BoneTransName: Bone008(mirrored)
+    - BoneBindPosMatrix:
+        real: {x: 0.49799588, y: -0.5019961, z: 0.4979958, w: 0.5019962}
+        dual: {x: 1.1942418, y: 0.015807148, z: -0.00000015120052}
+      BoneIndex: 8
+      BoneIndexInList: 6
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1145834792
+      BoneTransName: Bone016
+    - BoneBindPosMatrix:
+        real: {x: 0.5618112, y: -0.42938116, z: 0.56181115, w: 0.42938125}
+        dual: {x: 1.3887055, y: 0.40620258, z: -0.00000015120183}
+      BoneIndex: 5
+      BoneIndexInList: 7
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1568187011
+      BoneTransName: Bone017
+    - BoneBindPosMatrix:
+        real: {x: 0.48614627, y: -0.5134801, z: 0.48614615, w: 0.5134802}
+        dual: {x: 1.7387828, y: -0.1488513, z: -0.00000015120173}
+      BoneIndex: 6
+      BoneIndexInList: 8
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 2049108443
+      BoneTransName: Bone018
+    - BoneBindPosMatrix:
+        real: {x: -0.3975684, y: -0.58371216, z: -0.60108453, w: 0.37405458}
+        dual: {x: -1.4251885, y: 0.13264115, z: -0.8875466}
+      BoneIndex: 4
+      BoneIndexInList: 9
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 483024510
+      BoneTransName: Bone020
+    - BoneBindPosMatrix:
+        real: {x: -0.29969826, y: -0.6617937, z: -0.44249147, w: 0.52574843}
+        dual: {x: -1.1256374, y: -0.48889515, z: -0.72524554}
+      BoneIndex: 1
+      BoneIndexInList: 10
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -2069583072
+      BoneTransName: Bone012
+    - BoneBindPosMatrix:
+        real: {x: -0.38939974, y: -0.581495, z: -0.5095638, w: 0.5005758}
+        dual: {x: -1.0025748, y: -0.21104959, z: -0.6587046}
+      BoneIndex: 13
+      BoneIndexInList: 11
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1929419389
+      BoneTransName: Bone013
+    - BoneBindPosMatrix:
+        real: {x: -0.60108477, y: -0.37405494, z: -0.39756835, w: 0.58371174}
+        dual: {x: -1.4233044, y: 0.13257469, z: 0.8918116}
+      BoneIndex: 7
+      BoneIndexInList: 12
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -817565575
+      BoneTransName: Bone020(mirrored)
+    - BoneBindPosMatrix:
+        real: {x: -0.44249168, y: -0.5257489, z: -0.29969808, w: 0.66179323}
+        dual: {x: -1.1243904, y: -0.48857462, z: 0.7297281}
+      BoneIndex: 10
+      BoneIndexInList: 13
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 868627904
+      BoneTransName: Bone012(mirrored)
+    - BoneBindPosMatrix:
+        real: {x: 0, y: 0, z: 0, w: 1}
+        dual: {x: -0, y: 0, z: 2.6031866e-10}
+      BoneIndex: -1
+      BoneIndexInList: 14
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -524975769
+      BoneTransName: Bone_root
+    VitualBoneIdxArr: 
+    RootBoneIdxInList: 14
+  - AttachMesh: {fileID: 4300000, guid: bfa4f5ed271aacb41ab3df3e09161848, type: 2}
+    AttachMats:
+    - {fileID: 2100000, guid: 4a79769b487da0646a8b7c98e4ade516, type: 2}
+    ExportBoneAnimArray: []
+    FixedExportBoneDataArray:
+    - BoneBindPosMatrix:
+        real: {x: 0.7071068, y: 0.00000029802322, z: -0.70710677, w: 0}
+        dual: {x: -0.6411133, y: 1.5096333, z: 0.0000012718431}
+      BoneIndex: 1
+      BoneIndexInList: 0
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1243372048
+      BoneTransName: Bip001 Pelvis
+    - BoneBindPosMatrix:
+        real: {x: 0.7071072, y: 0.0003238214, z: -0.70710623, w: 0.0003221117}
+        dual: {x: -0.45407477, y: 1.5097806, z: 0.0000067606397}
+      BoneIndex: 0
+      BoneIndexInList: 1
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1344228036
+      BoneTransName: Bip001 Spine
+    - BoneBindPosMatrix:
+        real: {x: -0.44514328, y: -0.5218531, z: -0.44132987, w: 0.5785713}
+        dual: {x: -1.5967882, y: 0.29471073, z: 0.28324056}
+      BoneIndex: 18
+      BoneIndexInList: 2
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1163907025
+      BoneTransName: Bip001 L Thigh
+    - BoneBindPosMatrix:
+        real: {x: -0.58940613, y: -0.35083273, z: -0.60404885, w: 0.4057608}
+        dual: {x: -0.78133553, y: 0.97225386, z: 0.2832406}
+      BoneIndex: 9
+      BoneIndexInList: 3
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1361850788
+      BoneTransName: Bip001 L Calf
+    - BoneBindPosMatrix:
+        real: {x: -0.44796214, y: -0.51943535, z: -0.44445583, w: 0.5761734}
+        dual: {x: -0.7681423, y: 0.6389279, z: 0.28324056}
+      BoneIndex: 14
+      BoneIndexInList: 4
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1490331754
+      BoneTransName: Bip001 L HorseLink
+    - BoneBindPosMatrix:
+        real: {x: -0.44132924, y: -0.5785706, z: -0.4451439, w: 0.5218539}
+        dual: {x: -1.5967878, y: 0.29471046, z: -0.2832456}
+      BoneIndex: 4
+      BoneIndexInList: 5
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1981136671
+      BoneTransName: Bip001 R Thigh
+    - BoneBindPosMatrix:
+        real: {x: -0.604048, y: -0.40576032, z: -0.58940697, w: 0.35083333}
+        dual: {x: -0.7813355, y: 0.97225344, z: -0.28324562}
+      BoneIndex: 8
+      BoneIndexInList: 6
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1313437288
+      BoneTransName: Bip001 R Calf
+    - BoneBindPosMatrix:
+        real: {x: -0.4444552, y: -0.5761727, z: -0.44796276, w: 0.5194362}
+        dual: {x: -0.768142, y: 0.63892776, z: -0.2832456}
+      BoneIndex: 11
+      BoneIndexInList: 7
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1339334540
+      BoneTransName: Bip001 R HorseLink
+    - BoneBindPosMatrix:
+        real: {x: 0.7071072, y: 0.0003238214, z: -0.70710623, w: 0.0003221117}
+        dual: {x: 0.18435507, y: 1.5102891, z: 0.0000067620504}
+      BoneIndex: 10
+      BoneIndexInList: 8
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 111790023
+      BoneTransName: Bip001 Spine1
+    - BoneBindPosMatrix:
+        real: {x: -0.69713545, y: 0.11833172, z: 0.69713485, w: 0.118333496}
+        dual: {x: 1.3377343, y: 1.1107415, z: 0.000005751998}
+      BoneIndex: 16
+      BoneIndexInList: 9
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 499202337
+      BoneTransName: Bip001 Neck
+    - BoneBindPosMatrix:
+        real: {x: -0.113077834, y: 0.13386723, z: -0.6353135, w: 0.7521102}
+        dual: {x: -1.6982939, y: -0.33910176, z: -0.08343106}
+      BoneIndex: 19
+      BoneIndexInList: 10
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 944956611
+      BoneTransName: Bip001 L Clavicle
+    - BoneBindPosMatrix:
+        real: {x: -0.47959918, y: -0.50638235, z: -0.47627053, w: 0.53546983}
+        dual: {x: -1.1610476, y: -0.62704754, z: 0.1616242}
+      BoneIndex: 12
+      BoneIndexInList: 11
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1950406696
+      BoneTransName: Bip001 L UpperArm
+    - BoneBindPosMatrix:
+        real: {x: -0.49778095, y: -0.4885208, z: -0.4955173, w: 0.5177105}
+        dual: {x: -0.6033388, y: -0.5845488, z: 0.16162416}
+      BoneIndex: 7
+      BoneIndexInList: 12
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1330684061
+      BoneTransName: Bip001 L Forearm
+    - BoneBindPosMatrix:
+        real: {x: -0.5492042, y: 0.445392, z: 0.5492047, w: 0.44539297}
+        dual: {x: 1.8762064, y: -0.9543202, z: 0.000000024340693}
+      BoneIndex: 2
+      BoneIndexInList: 13
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -140683822
+      BoneTransName: Bip001 Neck1
+    - BoneBindPosMatrix:
+        real: {x: 0.70686924, y: 0.018347718, z: -0.70686823, w: 0.018345732}
+        dual: {x: 1.3143275, y: 2.2128737, z: 0.000008808877}
+      BoneIndex: 3
+      BoneIndexInList: 14
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 891901611
+      BoneTransName: Bip001 Head
+    - BoneBindPosMatrix:
+        real: {x: 0.63531333, y: 0.75211036, z: 0.11307865, w: 0.13386633}
+        dual: {x: -1.698293, y: -0.33910683, z: 0.083431445}
+      BoneIndex: 13
+      BoneIndexInList: 15
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1043132079
+      BoneTransName: Bip001 R Clavicle
+    - BoneBindPosMatrix:
+        real: {x: -0.4762699, y: -0.5354692, z: -0.4795998, w: 0.506383}
+        dual: {x: -1.1610477, y: -0.6270478, z: -0.16162933}
+      BoneIndex: 5
+      BoneIndexInList: 16
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1615682536
+      BoneTransName: Bip001 R UpperArm
+    - BoneBindPosMatrix:
+        real: {x: -0.49551666, y: -0.51770985, z: -0.4977816, w: 0.4885215}
+        dual: {x: -0.60333854, y: -0.58454883, z: -0.1616293}
+      BoneIndex: 6
+      BoneIndexInList: 17
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1041129175
+      BoneTransName: Bip001 R Forearm
+    - BoneBindPosMatrix:
+        real: {x: 0.4501729, y: 0.5452932, z: -0.45017266, w: 0.54529285}
+        dual: {x: -1.5497195, y: -1.0564436, z: -0.00000010137359}
+      BoneIndex: 15
+      BoneIndexInList: 18
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 1652381162
+      BoneTransName: Bone001
+    - BoneBindPosMatrix:
+        real: {x: 0.4762578, y: 0.5226651, z: -0.47625756, w: 0.5226647}
+        dual: {x: -1.2348566, y: -0.9404972, z: -0.00000007470055}
+      BoneIndex: 17
+      BoneIndexInList: 19
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -1485729050
+      BoneTransName: Bone003
+    - BoneBindPosMatrix:
+        real: {x: -0.008893552, y: 0.0088935625, z: 0.70705044, w: 0.7070513}
+        dual: {x: -0.000000023442327, y: 1.449674, z: -0.53629845}
+      BoneIndex: -1
+      BoneIndexInList: 20
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: 451628056
+      BoneTransName: Bip001
+    - BoneBindPosMatrix:
+        real: {x: 0, y: 0, z: 0, w: 1}
+        dual: {x: -0, y: 0, z: 2.6031866e-10}
+      BoneIndex: -1
+      BoneIndexInList: 21
+      BoneParentInList: 0
+      FixedBoneChildrenInArray: 
+      BoneName: -524975769
+      BoneTransName: Bone_root
+    VitualBoneIdxArr: 
+    RootBoneIdxInList: 21
+  AnimationNames:
+  - attack01
+  - dead01
+  - idle01
+  - walk01
+  AnimationFrameCount: 31000000540000003c00000031000000
+  fps: 30
+  ClipCount: 4
